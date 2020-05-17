@@ -1,0 +1,16 @@
+﻿@model coreDemo.Models.Cinema
+
+
+    <tr>
+        <th scope="row">@Model.id</th>
+        <td>
+            <a asp-controller="Movie" asp-action="Index" asp-route-cinemaId="@Model.id">
+                @Model.Name
+            </a>
+        </td>
+        <td>@Model.Location</td>
+        <td>@Model.Capacity</td>
+        <td>
+            <a asp-controller="Home" asp-action="Edit" asp-route-CinemaId="@Model.id" >编辑</a>
+        </td>
+    </tr>
