@@ -7,3 +7,12 @@ C:\Users\wt\source\repos\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDe
 C:\Users\wt\source\repos\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.pdb
 C:\Users\wt\source\repos\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.csprojAssemblyReference.cache
 C:\Users\wt\source\repos\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.csproj.CoreCompileInputs.cache
+D:\Mygithub\coreDemo\coreDemo.Models\bin\Debug\netcoreapp2.1\coreDemo.Models.deps.json
+D:\Mygithub\coreDemo\coreDemo.Models\bin\Debug\netcoreapp2.1\coreDemo.Models.dll
+D:\Mygithub\coreDemo\coreDemo.Models\bin\Debug\netcoreapp2.1\coreDemo.Models.pdb
+D:\Mygithub\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.csprojAssemblyReference.cache
+D:\Mygithub\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.csproj.CoreCompileInputs.cache
+D:\Mygithub\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.AssemblyInfoInputs.cache
+D:\Mygithub\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.AssemblyInfo.cs
+D:\Mygithub\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.dll
+D:\Mygithub\coreDemo\coreDemo.Models\obj\Debug\netcoreapp2.1\coreDemo.Models.pdb

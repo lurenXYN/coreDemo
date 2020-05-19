@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj": {}
+    "D:\\Mygithub\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj": {
+    "D:\\Mygithub\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj",
+        "projectUniqueName": "D:\\Mygithub\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj",
         "projectName": "coreDemo.Models",
-        "projectPath": "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj",
+        "projectPath": "D:\\Mygithub\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj",
         "packagesPath": "C:\\Users\\wt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo.Models\\obj\\",
+        "outputPath": "D:\\Mygithub\\coreDemo\\coreDemo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

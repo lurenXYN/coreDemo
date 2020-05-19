@@ -22653,11 +22653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo\\coreDemo.csproj",
+      "projectUniqueName": "D:\\Mygithub\\coreDemo\\coreDemo\\coreDemo.csproj",
       "projectName": "coreDemo",
-      "projectPath": "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo\\coreDemo.csproj",
+      "projectPath": "D:\\Mygithub\\coreDemo\\coreDemo\\coreDemo.csproj",
       "packagesPath": "C:\\Users\\wt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo\\obj\\",
+      "outputPath": "D:\\Mygithub\\coreDemo\\coreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -22677,8 +22677,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj": {
-              "projectPath": "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj"
+            "D:\\Mygithub\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj": {
+              "projectPath": "D:\\Mygithub\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj"
             }
           }
         }

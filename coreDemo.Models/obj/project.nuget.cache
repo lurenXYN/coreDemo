@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQjd4bMtYN9ltt0fysjua3k0m/BsYFK517KbGyJredeopRJPwYTCdaP/1hAK/y3plFqznBhl4vwPTJga+yWsLA==",
+  "dgSpecHash": "KKTW2n9L5uerXQGIA6QWMc+bg4USrL/fqPG8tmF10pMebjZxCxjHI3hxHEY+4HGSHF0nXHUQufFAAHLUkdSWIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wt\\source\\repos\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj",
+  "projectFilePath": "D:\\Mygithub\\coreDemo\\coreDemo.Models\\coreDemo.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wt\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\wt\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
